@@ -1,8 +1,8 @@
 === qTranslate X Cleanup and WPML Import ===
-Contributors: OnTheGoSystems
-Tags: qTranslatex, wpml, multilingual, i18n, conversion, import, uninstall, cleanup
+Contributors: AmirHelzer, strategio, dgwatkins
+Tags: qtranslate, qtranslatex, wpml, multilingual, i18n
 Requires at least: 3.0
-Tested up to: 6.5
+Tested up to: 6.7
 Stable tag: 3.0.2
 License: GPLv2 or later
 
