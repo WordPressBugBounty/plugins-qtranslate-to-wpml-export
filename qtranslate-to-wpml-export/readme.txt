@@ -2,7 +2,7 @@
 Contributors: AmirHelzer, strategio, dgwatkins
 Tags: qtranslate, qtranslatex, wpml, multilingual, i18n
 Requires at least: 3.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 3.0.2
 License: GPLv2 or later
 
